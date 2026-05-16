@@ -64,11 +64,3 @@ statbot/
 - Cloud deployment
 - User authentication system
 
-## 👩‍💻 Built By
-**Chandana Chemuru**
-B.Tech CSE (AI & ML) — 3rd Year
-Sri Venkateswara College of Engineering, Tirupati
-
-## 📬 Connect
-- GitHub: chandanachemuru9-png
-- LinkedIn: https://www.linkedin.com/in/chemuru-chandana-28a5a22a7
