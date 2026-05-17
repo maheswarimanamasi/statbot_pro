@@ -5,42 +5,7 @@ from visualizer import plot_bar, plot_line, plot_pie, plot_scatter, plot_histogr
 
 st.set_page_config(page_title="StatBot Pro", page_icon="📊")
 
-st.markdown("""
-<style>
-.stApp {
-    background-color: #121212;
-    color: #FFFFFF;
-}
 
-.stButton>button {
-    background-color: #00ADB5;
-    color: white;
-    border-radius: 12px;
-    height: 3em;
-    width: 100%;
-    font-size: 16px;
-}
-
-.stTextInput>div>div>input {
-    background-color: #1E1E1E;
-    color: white;
-}
-            .stRadio label {
-    color: white !important;
-    font-size: 20px;
-    font-weight: 500;
-}
-
-.stMarkdown {
-    color: white;
-}
-
-label {
-    color: white !important;
-}
-
-</style>
-""", unsafe_allow_html=True)
 st.title("📊 StatBot Pro — AI CSV Analyst")
 
 if "history" not in st.session_state:
